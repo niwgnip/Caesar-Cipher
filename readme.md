@@ -1,5 +1,5 @@
-# Company Manager
-Caesae Key created with Python
+# Caesar Cipher
+Caesar Key created with Python
 
 ## Introduction
 An application created in order to train Python. Code/decode with the help of Caesar Cipher (letters are shifted a certain number of places)
